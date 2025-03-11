@@ -1,0 +1,11 @@
+D:\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net8.0\PruebaTecnica.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net8.0\PruebaTecnica.Shared.AssemblyInfoInputs.cache
+D:\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net8.0\PruebaTecnica.Shared.AssemblyInfo.cs
+D:\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net8.0\PruebaTecnica.Shared.csproj.CoreCompileInputs.cache
+D:\PruebaTecnica\PruebaTecnica.Shared\bin\Debug\net8.0\PruebaTecnica.Shared.deps.json
+D:\PruebaTecnica\PruebaTecnica.Shared\bin\Debug\net8.0\PruebaTecnica.Shared.dll
+D:\PruebaTecnica\PruebaTecnica.Shared\bin\Debug\net8.0\PruebaTecnica.Shared.pdb
+D:\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net8.0\PruebaTecnica.Shared.dll
+D:\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net8.0\refint\PruebaTecnica.Shared.dll
+D:\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net8.0\PruebaTecnica.Shared.pdb
+D:\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net8.0\ref\PruebaTecnica.Shared.dll

@@ -1,0 +1,15 @@
+D:\PruebaTecnica\PruebaTecnica.BLL\obj\Debug\net8.0\PruebaTecnica.BLL.csproj.AssemblyReference.cache
+D:\PruebaTecnica\PruebaTecnica.BLL\obj\Debug\net8.0\PruebaTecnica.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaTecnica\PruebaTecnica.BLL\obj\Debug\net8.0\PruebaTecnica.BLL.AssemblyInfoInputs.cache
+D:\PruebaTecnica\PruebaTecnica.BLL\obj\Debug\net8.0\PruebaTecnica.BLL.AssemblyInfo.cs
+D:\PruebaTecnica\PruebaTecnica.BLL\obj\Debug\net8.0\PruebaTecnica.BLL.csproj.CoreCompileInputs.cache
+D:\PruebaTecnica\PruebaTecnica.BLL\bin\Debug\net8.0\PruebaTecnica.BLL.deps.json
+D:\PruebaTecnica\PruebaTecnica.BLL\bin\Debug\net8.0\PruebaTecnica.BLL.dll
+D:\PruebaTecnica\PruebaTecnica.BLL\bin\Debug\net8.0\PruebaTecnica.BLL.pdb
+D:\PruebaTecnica\PruebaTecnica.BLL\bin\Debug\net8.0\PruebaTecnica.Shared.dll
+D:\PruebaTecnica\PruebaTecnica.BLL\bin\Debug\net8.0\PruebaTecnica.Shared.pdb
+D:\PruebaTecnica\PruebaTecnica.BLL\obj\Debug\net8.0\PruebaTe.78B0746B.Up2Date
+D:\PruebaTecnica\PruebaTecnica.BLL\obj\Debug\net8.0\PruebaTecnica.BLL.dll
+D:\PruebaTecnica\PruebaTecnica.BLL\obj\Debug\net8.0\refint\PruebaTecnica.BLL.dll
+D:\PruebaTecnica\PruebaTecnica.BLL\obj\Debug\net8.0\PruebaTecnica.BLL.pdb
+D:\PruebaTecnica\PruebaTecnica.BLL\obj\Debug\net8.0\ref\PruebaTecnica.BLL.dll
