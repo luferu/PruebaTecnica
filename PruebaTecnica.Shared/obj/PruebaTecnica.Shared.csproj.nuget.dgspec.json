@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PruebaTecnica\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj": {}
+    "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj": {}
   },
   "projects": {
-    "D:\\PruebaTecnica\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj": {
+    "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PruebaTecnica\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj",
+        "projectUniqueName": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj",
         "projectName": "PruebaTecnica.Shared",
-        "projectPath": "D:\\PruebaTecnica\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj",
+        "projectPath": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj",
         "packagesPath": "C:\\Users\\LUISR\\.nuget\\packages\\",
-        "outputPath": "D:\\PruebaTecnica\\PruebaTecnica.Shared\\obj\\",
+        "outputPath": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -50,6 +50,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

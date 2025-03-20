@@ -1,6 +1,11 @@
+using Microsoft.EntityFrameworkCore;
 using PruebaTecnica.BLL.Classes;
 using PruebaTecnica.BLL.Interfaces;
+using PruebaTecnica.DAL.DbContext;
+using PruebaTecnica.DAL.Models;
+using PruebaTecnica.DAL.Repositories;
 using PruebaTecnica.Utility;
+using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,7 +32,15 @@ builder.Services.AddHttpClient("WebhookClient", client =>
     client.DefaultRequestHeaders.Add("Surtechnology", "6E3F37EF-2DBC-4062-B974-5812DCB0B2AC");
 });
 
+builder.Services.Configure<Webhook>(builder.Configuration.GetSection("Webhook"));
 
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSQL")));
+
+builder.Services.AddScoped<IRepository<ApiLog>, Repository<ApiLog>>();
+builder.Services.AddScoped<IApiLogRepository, ApiLogRepository>();
+
+builder.Services.AddScoped<ILogApiService, LogApiService>();
 
 var app = builder.Build();
 

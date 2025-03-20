@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oXei9f4NBPM=",
+  "dgSpecHash": "qPOZoGSRk7A=",
   "success": true,
-  "projectFilePath": "D:\\PruebaTecnica\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUISR\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

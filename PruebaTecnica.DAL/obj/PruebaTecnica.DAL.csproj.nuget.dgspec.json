@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PruebaTecnica\\PruebaTecnica.DAL\\PruebaTecnica.DAL.csproj": {}
+    "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\PruebaTecnica.DAL.csproj": {}
   },
   "projects": {
-    "D:\\PruebaTecnica\\PruebaTecnica.DAL\\PruebaTecnica.DAL.csproj": {
+    "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\PruebaTecnica.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PruebaTecnica\\PruebaTecnica.DAL\\PruebaTecnica.DAL.csproj",
+        "projectUniqueName": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\PruebaTecnica.DAL.csproj",
         "projectName": "PruebaTecnica.DAL",
-        "projectPath": "D:\\PruebaTecnica\\PruebaTecnica.DAL\\PruebaTecnica.DAL.csproj",
+        "projectPath": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\PruebaTecnica.DAL.csproj",
         "packagesPath": "C:\\Users\\LUISR\\.nuget\\packages\\",
-        "outputPath": "D:\\PruebaTecnica\\PruebaTecnica.DAL\\obj\\",
+        "outputPath": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -50,6 +50,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
