@@ -3,11 +3,18 @@
   "WorkspaceRootPath": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA9AED02-639B-4A10-8373-BA9096435E9F}|..\\PruebaTecnica.BLL\\PruebaTecnica.BLL.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.bll\\classes\\restapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnicaapi\\controllers\\restapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|solutionrelative:controllers\\restapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnicaapi\\controllers\\randomusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|solutionrelative:controllers\\randomusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9AED02-639B-4A10-8373-BA9096435E9F}|..\\PruebaTecnica.BLL\\PruebaTecnica.BLL.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.bll\\classes\\randomuserservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9AED02-639B-4A10-8373-BA9096435E9F}|..\\PruebaTecnica.BLL\\PruebaTecnica.BLL.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.bll\\classes\\restapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\randomuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -37,10 +44,6 @@
       "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnicaapi\\controllers\\randomusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|solutionrelative:controllers\\randomusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEF33B63-D554-4449-9380-B3D8E0B756AC}|..\\PruebaTecnica.DAL\\PruebaTecnica.DAL.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.dal\\models\\apilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -65,20 +68,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "RestApiService.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
               "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
               "RelativeToolTip": "..\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAcwFkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T04:22:49.301Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandomUserService .cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.BLL\\Classes\\RandomUserService .cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.BLL\\Classes\\RandomUserService .cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.BLL\\Classes\\RandomUserService .cs",
+              "RelativeToolTip": "..\\PruebaTecnica.BLL\\Classes\\RandomUserService .cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:42:03.611Z",
               "EditorCaption": ""
             },
             {
@@ -91,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ResultDTO.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\ResultDTO.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\ResultDTO.cs",
@@ -103,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RandomUserDTO.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RandomUserDTO.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\RandomUserDTO.cs",
@@ -115,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "RestApiDTO.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RestApiDTO.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\RestApiDTO.cs",
@@ -127,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "StreetDTO.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\StreetDTO.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\StreetDTO.cs",
@@ -139,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RandomUserApiResponseDTO.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RandomUserApiResponseDTO.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\RandomUserApiResponseDTO.cs",
@@ -151,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PictureDTO.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\PictureDTO.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\PictureDTO.cs",
@@ -163,19 +179,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RestApiController.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\Controllers\\RestApiController.cs",
               "RelativeDocumentMoniker": "Controllers\\RestApiController.cs",
               "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\Controllers\\RestApiController.cs",
               "RelativeToolTip": "Controllers\\RestApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T23:13:46.554Z"
+              "WhenOpened": "2025-03-20T23:13:46.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "RegisteredDTO.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RegisteredDTO.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\RegisteredDTO.cs",
@@ -187,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "NameDTO.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\NameDTO.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\NameDTO.cs",
@@ -199,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "LocationDTO.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\LocationDTO.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\LocationDTO.cs",
@@ -211,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "RandomUserController.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\Controllers\\RandomUserController.cs",
               "RelativeDocumentMoniker": "Controllers\\RandomUserController.cs",
@@ -219,11 +236,12 @@
               "RelativeToolTip": "Controllers\\RandomUserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T23:17:33.527Z"
+              "WhenOpened": "2025-03-20T23:17:33.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "20250321013254_Update-Apilog-Remove-Field.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\Migrations\\20250321013254_Update-Apilog-Remove-Field.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.DAL\\Migrations\\20250321013254_Update-Apilog-Remove-Field.cs",
@@ -235,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -247,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -259,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Webhook.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Utility\\Webhook.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Utility\\Webhook.cs",
@@ -271,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ApiLog.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\Models\\ApiLog.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.DAL\\Models\\ApiLog.cs",

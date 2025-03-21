@@ -53,9 +53,6 @@ namespace PruebaTecnica.BLL.Classes
             var json = await response.Content.ReadAsStringAsync();
             _logger.LogInformation("json response: {json}", json);
 
-            ////var jsonDoc = JsonDocument.Parse(json);
-            ////var user = jsonDoc.RootElement.GetProperty("results")[0];
-
             var apiResponse = JsonConvert.DeserializeObject<RandomUserApiResponseDTO>(json);
 
 

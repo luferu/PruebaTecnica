@@ -23,8 +23,6 @@ namespace PruebaTecnica.API.Controllers
         }
 
         [HttpGet("{id}")]
-        // public async Task<IActionResult> GetByIdAsync(string id) => Ok(await _restApiService.GetByIdAsync(id));
-
         public async Task<IActionResult> GetByIdAsync(string id)
         {
             var result = await _restApiService.GetByIdAsync(id);
@@ -34,12 +32,6 @@ namespace PruebaTecnica.API.Controllers
 
         [HttpPost("Create")]
         public async Task<IActionResult> CreateAsync([FromBody] RestApiDTO obj) => Ok(await _restApiService.CreateAsync(obj));
-
-        //public async Task<IActionResult> CreateAsync([FromBody] RestApiDTO obj)
-        //{
-        //    var result = await _restApiService.CreateAsync(obj);
-        //    return CreatedAtAction(nameof(GetByIdAsync), new { id = result.Id }, result);
-        //}
 
 
         [HttpPut("Update/{id}")]
