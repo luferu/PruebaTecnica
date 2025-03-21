@@ -51,7 +51,7 @@ namespace PruebaTecnica.BLL.Classes
             response.EnsureSuccessStatusCode();
 
             var json = await response.Content.ReadAsStringAsync();
-            _logger.LogInformation("json response: {Json}", json);
+            _logger.LogInformation("json response: {json}", json);
 
             ////var jsonDoc = JsonDocument.Parse(json);
             ////var user = jsonDoc.RootElement.GetProperty("results")[0];
@@ -85,7 +85,7 @@ namespace PruebaTecnica.BLL.Classes
             };
 
             payload.User.Title = payload.User.Title + "1";
-            _logger.LogInformation("Mapped payload: {@Payload}", payload);
+            _logger.LogInformation("Mapped payload: {payload}", payload);
             await SaveApiLogAsync("GET", url, response, payload);
 
             return payload;
@@ -95,12 +95,12 @@ namespace PruebaTecnica.BLL.Classes
 
         public async Task<bool> SendWebhookAsync(RandomUserDTO payload)
         {
-            _logger.LogInformation("Sending to webhook: {@Payload}", payload);
+            _logger.LogInformation("Sending to webhook: {payload}", payload);
 
 
             var jsonPayload = Newtonsoft.Json.JsonConvert.SerializeObject(payload);
 
-            _logger.LogInformation("payload json: {JsonPayload}", jsonPayload);
+            _logger.LogInformation("payload json: {jsonPayload}", jsonPayload);
 
 
             var content = new StringContent(jsonPayload, Encoding.UTF8, "application/json");
@@ -117,19 +117,19 @@ namespace PruebaTecnica.BLL.Classes
             return true;
         }
 
-        private async Task SaveApiLogAsync(string httpMethod, string url, HttpResponseMessage response, object? result, object? requestBody = null)
+        private async Task SaveApiLogAsync(string httpMethod, string url, HttpResponseMessage response, object? requestBody = null)
         {
-            var resultAsString = result != null ? JsonConvert.SerializeObject(result, Formatting.Indented) : string.Empty;
-            var requestBodyAsString = requestBody != null ? JsonConvert.SerializeObject(requestBody, Formatting.Indented) : string.Empty;
+            var requestAsString = requestBody != null ? JsonConvert.SerializeObject(requestBody, Formatting.Indented) : string.Empty;
+            var responseBodyAsString = response != null ? JsonConvert.SerializeObject(response, Formatting.Indented) : string.Empty;
 
             var apiLog = new ApiLog
             {
                 HttpMethod = httpMethod,
                 Url = url,
-                StatusCode = (int)response.StatusCode,
+                StatusCode = response?.StatusCode != null ? (int)response.StatusCode : 0,
                 RequestHeaders = _httpClient.DefaultRequestHeaders.ToString(),
-                RequestBody = requestBodyAsString,
-                ResponseBody = resultAsString
+                RequestBody = requestAsString,
+                ResponseBody = responseBodyAsString
             };
 
             await _logApiService.CreateAsync(apiLog);

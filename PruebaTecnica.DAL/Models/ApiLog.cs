@@ -13,7 +13,6 @@ namespace PruebaTecnica.DAL.Models
         public string? Url { get; set; }
         public string? RequestHeaders { get; set; }
         public string? RequestBody { get; set; }
-        public string? ResponseHeaders { get; set; }
         public string? ResponseBody { get; set; }
         public int? StatusCode { get; set; }
         public DateTime Timestamp { get; set; } = DateTime.UtcNow;

@@ -3,10 +3,52 @@
   "WorkspaceRootPath": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA9AED02-639B-4A10-8373-BA9096435E9F}|..\\PruebaTecnica.BLL\\PruebaTecnica.BLL.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.bll\\classes\\randomuserservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA9AED02-639B-4A10-8373-BA9096435E9F}|..\\PruebaTecnica.BLL\\PruebaTecnica.BLL.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.bll\\classes\\restapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA9AED02-639B-4A10-8373-BA9096435E9F}|..\\PruebaTecnica.BLL\\PruebaTecnica.BLL.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.bll\\classes\\restapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnicaapi\\controllers\\restapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|solutionrelative:controllers\\restapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\randomuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\randomuserapiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\registereddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\restapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\streetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\picturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\namedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB73956-56A2-4E1A-9FBE-557A800BD62F}|..\\PruebaTecnica.Shared\\PruebaTecnica.Shared.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.shared\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnicaapi\\controllers\\randomusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|solutionrelative:controllers\\randomusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\Migrations\\20250321013254_Update-Apilog-Remove-Field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF33B63-D554-4449-9380-B3D8E0B756AC}|..\\PruebaTecnica.DAL\\PruebaTecnica.DAL.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnica.dal\\models\\apilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnicaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1803015-5B18-4475-AEF5-BDBA4B662D55}|PruebaTecnica.API.csproj|d:\\users\\luisr\\documents\\pruebatecnica\\pruebatecnicaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +65,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestApiService.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwFkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:22:49.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -35,54 +91,210 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultDTO.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\ResultDTO.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\ResultDTO.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\ResultDTO.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.Shared\\ResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:36:44.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RandomUserDTO.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RandomUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\RandomUserDTO.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RandomUserDTO.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.Shared\\RandomUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:36:09.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestApiDTO.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RestApiDTO.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\RestApiDTO.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RestApiDTO.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.Shared\\RestApiDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:45:26.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StreetDTO.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\StreetDTO.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\StreetDTO.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\StreetDTO.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.Shared\\StreetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:45:18.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomUserApiResponseDTO.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RandomUserApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\RandomUserApiResponseDTO.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RandomUserApiResponseDTO.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.Shared\\RandomUserApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:36:07.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PictureDTO.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\PictureDTO.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\PictureDTO.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\PictureDTO.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.Shared\\PictureDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:36:03.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestApiController.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\Controllers\\RestApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestApiController.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\Controllers\\RestApiController.cs",
+              "RelativeToolTip": "Controllers\\RestApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T23:13:46.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisteredDTO.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RegisteredDTO.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\RegisteredDTO.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\RegisteredDTO.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.Shared\\RegisteredDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:45:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NameDTO.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\NameDTO.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\NameDTO.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\NameDTO.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.Shared\\NameDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:36:01.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocationDTO.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\LocationDTO.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.Shared\\LocationDTO.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Shared\\LocationDTO.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.Shared\\LocationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:35:57.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RandomUserController.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\Controllers\\RandomUserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RandomUserController.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\Controllers\\RandomUserController.cs",
+              "RelativeToolTip": "Controllers\\RandomUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T23:17:33.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250321013254_Update-Apilog-Remove-Field.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\Migrations\\20250321013254_Update-Apilog-Remove-Field.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.DAL\\Migrations\\20250321013254_Update-Apilog-Remove-Field.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\Migrations\\20250321013254_Update-Apilog-Remove-Field.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.DAL\\Migrations\\20250321013254_Update-Apilog-Remove-Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:32:55.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T04:26:25.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnicaApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T01:11:44.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Webhook.cs",
               "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Utility\\Webhook.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.Utility\\Webhook.cs",
               "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.Utility\\Webhook.cs",
               "RelativeToolTip": "..\\PruebaTecnica.Utility\\Webhook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T04:25:50.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RestApiService.cs",
-              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
-              "RelativeDocumentMoniker": "..\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
-              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
-              "RelativeToolTip": "..\\PruebaTecnica.BLL\\Classes\\RestApiService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "ApiLog.cs",
+              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\Models\\ApiLog.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.DAL\\Models\\ApiLog.cs",
+              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.DAL\\Models\\ApiLog.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.DAL\\Models\\ApiLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T04:22:49.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RandomUserService .cs",
-              "DocumentMoniker": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.BLL\\Classes\\RandomUserService .cs",
-              "RelativeDocumentMoniker": "..\\PruebaTecnica.BLL\\Classes\\RandomUserService .cs",
-              "ToolTip": "D:\\Users\\LUISR\\Documents\\PruebaTecnica\\PruebaTecnica.BLL\\Classes\\RandomUserService .cs",
-              "RelativeToolTip": "..\\PruebaTecnica.BLL\\Classes\\RandomUserService .cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAMwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T04:21:20.908Z",
+              "WhenOpened": "2025-03-21T01:30:18.755Z",
               "EditorCaption": ""
             }
           ]

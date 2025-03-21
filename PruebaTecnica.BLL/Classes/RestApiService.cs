@@ -34,10 +34,10 @@ namespace PruebaTecnica.BLL.Classes
 
             var result = await response.Content.ReadFromJsonAsync<IEnumerable<RestApiDTO>>();
 
-            await SaveApiLogAsync("GET", "/objects", response, result);
+            await SaveApiLogAsync("GET", "/objects", response, null);
 
 
-            _logger.LogInformation("Objects from API: {@result}", result);
+            _logger.LogInformation("Objects from API: {result}", result?.Count());
 
             return result!;
         }
@@ -51,8 +51,8 @@ namespace PruebaTecnica.BLL.Classes
             response.EnsureSuccessStatusCode();
 
             var result = await response.Content.ReadFromJsonAsync<RestApiDTO>();
-            await SaveApiLogAsync("GET", $"/objects/{id}", response, result);
-            _logger.LogInformation("Object from API: {@Result}", result);
+            await SaveApiLogAsync("GET", $"/objects/{id}", response, null);
+            _logger.LogInformation("Object from API: {result}", result);
 
             return result!;
         }
@@ -65,8 +65,8 @@ namespace PruebaTecnica.BLL.Classes
             response.EnsureSuccessStatusCode();
 
             var result = await response.Content.ReadFromJsonAsync<RestApiDTO>();
-            await SaveApiLogAsync("POST", "/objects", response, result, newData);
-            _logger.LogInformation("Object from API (new data): {@Result}", result);
+            await SaveApiLogAsync("POST", "/objects", response, newData);
+            _logger.LogInformation("Object from API (new data): {result}", result);
 
             return result!;
         }
@@ -79,27 +79,27 @@ namespace PruebaTecnica.BLL.Classes
             response.EnsureSuccessStatusCode();
 
             var result = await response.Content.ReadFromJsonAsync<RestApiDTO>();
-            await SaveApiLogAsync("PUT", $"/objects/{id}", response, result, updatedData);
-            _logger.LogInformation("Object from API updated: {@Result}", result);
+            await SaveApiLogAsync("PUT", $"/objects/{id}", response, updatedData);
+            _logger.LogInformation("Object from API updated: {result}", result);
 
             return result!;
         }
 
 
 
-        private async Task SaveApiLogAsync(string httpMethod, string url, HttpResponseMessage response, object? result, object? requestBody = null)
+        private async Task SaveApiLogAsync(string httpMethod, string url, HttpResponseMessage response, object? requestBody = null)
         {
-            var resultAsString = JsonConvert.SerializeObject(result, Formatting.Indented);
-            var requestBodyAsString = requestBody != null ? JsonConvert.SerializeObject(requestBody, Formatting.Indented) : string.Empty;
+            var requestAsString = requestBody != null ? JsonConvert.SerializeObject(requestBody, Formatting.Indented) : string.Empty;
+            var responseBodyAsString = response != null ? JsonConvert.SerializeObject(response, Formatting.Indented) : string.Empty;
 
             var apiLog = new ApiLog
             {
                 HttpMethod = httpMethod,
                 Url = url,
-                StatusCode = (int)response.StatusCode,
+                StatusCode = response?.StatusCode != null ? (int)response.StatusCode : 0,
                 RequestHeaders = _httpClient.DefaultRequestHeaders.ToString(),
-                RequestBody = requestBodyAsString,
-                ResponseBody = resultAsString
+                RequestBody = requestAsString,
+                ResponseBody = responseBodyAsString
             };
 
             await _logApiService.CreateAsync(apiLog);

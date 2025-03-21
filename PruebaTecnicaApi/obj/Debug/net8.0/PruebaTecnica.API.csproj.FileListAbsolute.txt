@@ -241,3 +241,4 @@ D:\Users\LUISR\Documents\PruebaTecnica\PruebaTecnicaApi\obj\Debug\net8.0\refint\
 D:\Users\LUISR\Documents\PruebaTecnica\PruebaTecnicaApi\obj\Debug\net8.0\PruebaTecnica.API.pdb
 D:\Users\LUISR\Documents\PruebaTecnica\PruebaTecnicaApi\obj\Debug\net8.0\PruebaTecnica.API.genruntimeconfig.cache
 D:\Users\LUISR\Documents\PruebaTecnica\PruebaTecnicaApi\obj\Debug\net8.0\ref\PruebaTecnica.API.dll
+D:\Users\LUISR\Documents\PruebaTecnica\PruebaTecnicaApi\obj\Debug\net8.0\PruebaTecnica.API.MvcApplicationPartsAssemblyInfo.cs

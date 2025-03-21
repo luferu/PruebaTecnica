@@ -28,7 +28,7 @@ builder.Services.AddHttpClient<IRandomUserService, RandomUserService>(client =>
 
 builder.Services.AddHttpClient("WebhookClient", client =>
 {
-    client.BaseAddress = new Uri("https://webhook.link/0c2ab0f2-a5df-4780-a67c-3a4ab245a7ff");
+    client.BaseAddress = new Uri("https://webhook.link/3cc621a3-35d9-4d30-aa8b-5b6399a285fd");
     client.DefaultRequestHeaders.Add("Surtechnology", "6E3F37EF-2DBC-4062-B974-5812DCB0B2AC");
 });
 
