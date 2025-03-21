@@ -23,6 +23,11 @@ mono_crash.*
 [Dd]ebug/
 [Rr]elease/
 
+
+**/bin/
+**/obj/
+**/Debug
+
 # NuGet Packages
 *.nupkg
 
