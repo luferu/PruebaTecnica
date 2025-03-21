@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaTecnica.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d1f10b56876b7f95fcf9c6ac250775375e0d030")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99cc1ef915e8b5fcd8ce7c0705c278405318002b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaTecnica.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaTecnica.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
